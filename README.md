@@ -1,4 +1,4 @@
-# Triton-ZCP-TCP
+# Triton-Ultra-Zenitel-Connect-Pro-TCP
 Integration of Triton Ultra sensor with Zenitel Connect Pro via TCP
 
 This solution integrates a Zenitel Connect Pro with Triton Ultra sensors via TCP Protocol running as a Node-red flow. Integration implements listening to live events for threats such as gunshots, glass break, keyword detection or air quailty. By using Node-red it's possible to add certain actions after the event is detected. This flow is used to issue a warning message which is stored on ZCP server, and place a call to operator after the event is detected and warning message is played.
